@@ -1,0 +1,8 @@
+/* smooth scroll */
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    background: radial-gradient(circle 350px at var(--x, 0) var(--y, 0), rgb(58, 57, 57), transparent), var(--bg, black);}
