@@ -62,7 +62,7 @@
                                 <div class="z-10 sm:col-span-6">
                                     <h3 class="font-medium leading-snug text-slate-200">
                                         <div>
-                                            <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 text-gray-50 group/link text-base" href="https://www.hmp.com" target="_blank" rel="noreferrer noopener" aria-label="Frontend Developer Intern at HMP CO. (opens in a new tab)">
+                                            <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 text-gray-50 group/link text-base" href="https://www.hmp-consultingservice.com/" target="_blank" rel="noreferrer noopener" aria-label="Frontend Developer Intern at HMP CO. (opens in a new tab)">
                                                 <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                                 <span>Web Developer Intern ·<!-- --> 
                                                     <span class="inline-block">HMP CO.</span>
@@ -95,12 +95,13 @@
                                 <div class="z-10 sm:col-span-6">
                                     <h3 class="font-medium leading-snug text-slate-200">
                                         <div>
-                                            <span class="inline-flex items-baseline font-medium leading-tight text-slate-200 text-gray-50 group/link text-base">
+                                            <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-green-300 focus-visible:text-green-300 text-gray-50 group/link text-base" href="http://gener-lnulib.site/" target="_blank" rel="noreferrer noopener" aria-label="Frontend Developer Intern at HMP CO. (opens in a new tab)">
                                                 <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                                <span>Capstone Project: GENER - Generative Nexus of Educational Resources Assistant ·<!-- --> 
-                                                    <span class="inline-block">LNU</span>
+                                                    <span>Capstone Project: GENER - Generative Nexus of Educational Resources Assistant ·<!-- --> 
+                                                        <span class="inline-block">LNU</span>
+                                                    </span>
                                                 </span>
-                                            </span>
+                                            </a>
                                         </div>
                                     </h3>
                                     <!-- Project Description -->
@@ -144,7 +145,7 @@
                 </div>
             </section>
             <div class="mb-16">
-                <a href="{{ asset('resume.pdf') }}" class="text-lg text-white">View Full Résumé
+                <a href="{{ asset('file/justinecirera.pdf') }}" class="text-lg text-white">View Full Resume
                     <i class="fas fa-arrow-down"></i>
                 </a>
             </div>
